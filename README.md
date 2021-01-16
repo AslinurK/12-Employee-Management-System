@@ -19,3 +19,7 @@ $ node server.js
 Program starts with below menu options:
 
 <img width="593" alt="start" src="https://user-images.githubusercontent.com/59800707/104795074-af619780-5779-11eb-96bf-48d0b43947ca.png">
+
+The user can add a new employee:
+
+<img width="755" alt="Add new employee" src="https://user-images.githubusercontent.com/59800707/104795108-e3d55380-5779-11eb-8c4b-4bdcac03b1fc.png">
