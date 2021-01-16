@@ -23,3 +23,7 @@ Program starts with below menu options:
 The user can add a new employee:
 
 <img width="755" alt="Add new employee" src="https://user-images.githubusercontent.com/59800707/104795108-e3d55380-5779-11eb-8c4b-4bdcac03b1fc.png">
+
+View all list of employees:
+
+<img width="755" alt="View all employees" src="https://user-images.githubusercontent.com/59800707/104795131-0ebfa780-577a-11eb-91ab-c2ff4c01830a.png">
