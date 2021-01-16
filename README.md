@@ -15,3 +15,7 @@ $ npm i
 To run the package after you've installed it, run the command below:
 
 $ node server.js
+
+Program starts with below menu options:
+
+<img width="593" alt="start" src="https://user-images.githubusercontent.com/59800707/104795074-af619780-5779-11eb-96bf-48d0b43947ca.png">
